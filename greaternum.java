@@ -16,6 +16,7 @@ class greaternum{
         int n = sc.nextInt();
         int m = sc.nextInt();
         greater(n,m);
+        System.out.println("I solved the question");
     }
 
 }
